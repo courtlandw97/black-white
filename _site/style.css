@@ -1,0 +1,32 @@
+* {
+  border: solid black 1px;
+}
+
+
+
+.headleft {
+  float: left;
+  font-size: 25px;
+  padding: 5px;
+
+}
+
+.headright {
+  float: right;
+  font-size: 20px;
+
+}
+
+.headright li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 5px 10px;
+
+}
+
+.name {
+  clear: both;
+  padding: 100px;
+  text-align: center;
+
+}
